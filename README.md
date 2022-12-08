@@ -186,7 +186,7 @@
                 <td>----------</td>
                  </tr>
            </table>
-           <p style="font-size: 20px; id="main"> <b>Розклад дзвінків</b></p>
+           <p style="font-size: 20px; id=main"> <b>Розклад дзвінків</b></p>
            <table>
                <tr>
                     <td>1.</td>
